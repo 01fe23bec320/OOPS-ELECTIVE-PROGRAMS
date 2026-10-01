@@ -8,7 +8,7 @@ class student
     public:
     void SetData()
     {
-       /* name = "Ruturaj";
+       /* name = "Rohini";
         age = 21;*/
         cout<<"Enter name : ";
         cin>>name;
