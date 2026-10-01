@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int age = 21;
-    float gpa = 6.95;
+    float gpa = 9.17;
     char grade = 'A';
 
     cout<<"AGE : "<< age<< endl;
